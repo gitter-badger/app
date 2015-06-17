@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/bravocart/app.svg?branch=master)](https://travis-ci.org/bravocart/app)
 # Bravocart App
 
+[![Join the chat at https://gitter.im/bravocart/app](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bravocart/app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Build beautiful mobile shops with Bravocart.
 
 ## Community
